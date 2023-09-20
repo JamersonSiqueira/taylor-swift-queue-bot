@@ -10,7 +10,7 @@ Have some friends trying to buy tickets for the highly anticipated Taylor Swift 
 
 ## Features
 
-- Connects to the website using Chrome (ChromeDriver) and Mozilla Firefox (GeckoDriver)
+- Connects to the website using Chrome (ChromeDriver v114) and Mozilla Firefox (GeckoDriver)
 - Get your position's on the line and the link to access it from another device!
 
 Maybe I'll update this project to use it in other's artists tours and concerts in this website and to make it more effective!
