@@ -2,7 +2,7 @@
 ## _A project to get the best place on the ticket sale_
 
 
-Have some friends trying to buy tickets for the highly anticipated Taylor Swift concert, afraid of not being able to get thir tickets, mix that with an hour of development using Selenium...
+Have some friends trying to buy tickets for the highly anticipated Taylor Swift concert, all of them afraid to not being able to get their tickets, mix that with an hour of development using Selenium...
 
 **✨That's Taylor Swift Queue Bot! ✨**
 
